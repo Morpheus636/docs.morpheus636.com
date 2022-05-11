@@ -16,5 +16,10 @@
         {%- endunless -%}
       {%- endif -%}
     {%- endfor -%}
+    {%- for collection in site.collections -%}
+      {%- unless collection/label == "posts" -%}
+        <a class="navlink" href="/{{ collection.label }}/index">{{ collection.label | escape | capitalize}}</a>
+      {%- endunless -%}
+      {%- endfor -%}
   </div>
 </nav>
