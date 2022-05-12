@@ -9,6 +9,11 @@
   overflow: auto;
 }
 
+.sidebar h3{
+  padding-top: 5px;
+  margin-bottom: 0px;
+}
+
 /* Sidebar links */
 .sidebar a {
   display: block;
@@ -29,6 +34,7 @@
 </style>
 
 <div class="sidebar">
+  <h3>{{ page.collection | capitalize}}</h3>
   {% assign docs = site[page.collection] | sort: "position" %}
   {% for doc in docs %}
     <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
