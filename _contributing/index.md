@@ -4,19 +4,18 @@ layout: wiki
 position: 0
 ---
 # Contributing
-This contribution guide applies to all of my open-source projects. It not only outlines my
-my expectations for contributors, but should also serve as an "intro to open-source" for beginners.
+This contribution guide applies to all Morpheus636 open-source projects. It not only outlines 
+ expectations for contributors, but should also serve as an "intro to open-source" for beginners.
 If you are experienced, you can simply skip over the basic sections.
 
-## Jobs within my projects:
+## Jobs and Responsibilities:
 ### Maintainer
-In most of my projects, I am the sole maintainer. The maintainer(s) decide the direction of the
-project, including what feature requests will be accepted or rejected, when (or if) bugs are fixed,
-when releases come out, etc. Any code that is deployed or released goes through the maintainer(s).
+The maintainer(s) decide the direction of the project, including 
+what feature requests will be accepted or rejected, when (or if) 
+bugs are fixed, when releases come out, etc. Any code that is 
+deployed or released goes through the maintainer(s).
 
-I spend as much time as I can on my projects, but I don't get paid to do so, and I'm still a 
-full-time student. Please be patient. If you don't get a response to a ticket within a week, please
-tag @Morpheus636 on GitHub so I get notified again.
+All of the contributors and maintainers are voulenteering to work on these projects, and have other responsibilities. Please be patient. If you don't get a response to a ticket or Pull Request within a week, please ping a maintainer in the comments or reach out via [Discord](https://discord.morpheus636.com) or Email. 
 
 ### Core Contributor
 Core Contributors are trusted contributors with direct commit access to the project's main repo.
@@ -43,8 +42,8 @@ process you should follow:
   README.
 4. Make your changes in your fork.
   - Make sure you're following the correct Git Workflow for the project (it should say in the 
-  project's README what workflow it uses, but it's either my
-  [Semantic Versioning Workflow](/contributing/semantic-version-workflow) or my 
+  project's README what workflow it uses, but it's either the
+  [Semantic Versioning Workflow](/contributing/semantic-version-workflow) or the 
   [CI/CD Workflow](/contributing/cicd-workflow)), including following commit comment guidelines, 
   code style guidlines (linked in the README) and other best practices.
 5. Create a Pull Request to merge your changes back into the main repo.

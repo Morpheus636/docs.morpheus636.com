@@ -5,7 +5,7 @@ title: Tickets
 position: 1
 ---
 # Tickets
-My projects use GitHub Issues for managing tasks.
+Morpheus636 projects use GitHub Issues for managing tasks.
 
 ## Submitting Tickets
 Submitting tickets is an easy way to contribute to the project, with no programming skills required.
@@ -34,7 +34,7 @@ features, and eventually, closing the ticket.
 It is important that each new ticket has the correct labels applied to it. This makes it easier
 for contributors to quickly search through for related tickets, or find issues to work on.
 
-My projects all have the following labels:
+Morpheus636 projects all have the following labels:
 - `documentation` 
     - description: Improvements or additions to documentation
     - color: `#0075ca`

@@ -5,12 +5,6 @@ layout: wiki
 position: 2
 ---
 # Contributor Covenant Code of Conduct
-This code of conduct applies to any community that I (Josh Levin / Morpheus636)
-am personally responsible for running, operating, and maintaining. This code of
-conduct will be linked everywhere that it applies or is enforced,
-including but not limited to: discussions, issues, and pull-requests in any of my
-GitHub repos and my Discord Server (Hub 636)
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our

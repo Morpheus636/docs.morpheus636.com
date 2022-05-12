@@ -5,9 +5,6 @@ title: CI/CD Workflow
 position: 3
 ---
 # Git Workflow: CI/CD
-
-This project uses a github-flow based git workflow, described below.
-
 ## Branches:
 ### main or production
 Code in the main or production branch is automatically deployed to the production environment. Code merged in this branch should be stable, and it must go through the full code review process described below. Code deployed to production should always be deployed to staging first.
