@@ -3,6 +3,7 @@
     padding-left: 10px;
     border-left: thin dashed #b5e853;
     margin-left: 170px;
+    min-height: 100vh;
   }
   @media screen and (max-width: 700px) {
     div.content{
@@ -16,7 +17,7 @@
 {% include head.html %}
   <body>
     {% include header.html %}
-    <div class="container" style="min-height:100vh;">
+    <div class="container">
       {% include wiki-sidebar.html %}
       <div class="content">
         <section id="main_content">
