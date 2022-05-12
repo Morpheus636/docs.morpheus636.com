@@ -15,7 +15,7 @@ what feature requests will be accepted or rejected, when (or if)
 bugs are fixed, when releases come out, etc. Any code that is 
 deployed or released goes through the maintainer(s).
 
-All of the contributors and maintainers are voulenteering to work on these projects, and have other responsibilities. Please be patient. If you don't get a response to a ticket or Pull Request within a week, please ping a maintainer in the comments or reach out via [Discord](https://discord.morpheus636.com) or Email. 
+All of the contributors and maintainers are volunteering to work on these projects, and have other responsibilities. Please be patient. If you don't get a response to a ticket or Pull Request within a week, please ping a maintainer in the comments or reach out via [Discord](https://discord.morpheus636.com) or Email. 
 
 ### Core Contributor
 Core Contributors are trusted contributors with direct commit access to the project's main repo.
@@ -79,7 +79,7 @@ Just like Tickets, Pull Requests have a couple routes to closure:
   - There's a problem with the associated Ticket, i.e no ticket was submitted, the ticket was not 
   marked as ready to be worked on (or was marked as `wontfix`), someone else is working on the 
   ticket, etc.
-  - The changes were implimented poorly, and they are beyond fixing without starting over.
+  - The changes were implemented poorly, and they are beyond fixing without starting over.
   - The PR is a duplicate
 
 **Only a Maintainer should merge or close a Pull Request** The Maintainer that closes a PR should 
