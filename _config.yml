@@ -1,1 +1,10 @@
 theme: jekyll-theme-hacker
+
+
+title: Morpheus636 Docs
+author: Morpheus636
+
+collections:
+  contributing:
+    output: true
+    permalink: /:collection/:path
